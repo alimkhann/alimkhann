@@ -3,6 +3,8 @@
 
 - 📫 How to reach me **alimkhan.ergebayev@gmail.com**
 
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/19MlRb8iAQFZQn5iL5NhJotxzkjTNtm-5/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alimkhan-yergebayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alimkhan-yergebayev" height="30" width="40" /></a>
