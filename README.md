@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **alimkhan.ergebayev@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/19MlRb8iAQFZQn5iL5NhJotxzkjTNtm-5/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1ubUYRMA9NarhWVfHX7N2GY7EI5s08UjC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
