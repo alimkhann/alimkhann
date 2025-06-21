@@ -9,8 +9,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/alimkhan-yergebayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alimkhan-yergebayev" height="30" width="40" /></a>
 <a href="https://instagram.com/alimkhan_y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alimkhan_y" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aalim7481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aalim7481" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/alimk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alimk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
