@@ -57,4 +57,8 @@ June 2024 – August 2024
 
 - **Languages:** English (C1: IELTS 8.0), Kazakh (C2: Native), Russian (C2: Native)
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alimkhann&show_icons=true&theme=light&locale=en&layout=compact" alt="alimkhann" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alimkhann&theme=light" alt="alimkhann" /></p>
+
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=alimkhann&show_icons=true alt=alimkhann /> </p>
