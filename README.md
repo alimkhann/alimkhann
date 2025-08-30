@@ -1,30 +1,49 @@
 <h1 align="center">Hi 👋, I'm Alimkhan Yergebayev</h1>
-<h3 align="center">Computer Science BSc at CityUHK (🔝60 QS). Passionate about Mobile App Development and AI.</h3>
+<h3 align="center">iOS Developer & AI Enthusiast | nFactorial Incubator'24 | CS BSc @ CityUHK'28 (🔝60 QS)</h3>
 
-- 📫 How to reach me **alimkhan.ergebayev@gmail.com**
-
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1ubUYRMA9NarhWVfHX7N2GY7EI5s08UjC/view?usp=sharing)
+- 📫 How to reach me: **alimkhan.ergebayev@gmail.com**
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1ubUYRMA9NarhWVfHX7N2GY7EI5s08UjC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alimkhan-yergebayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alimkhan-yergebayev" height="30" width="40" /></a>
-<a href="https://instagram.com/alimkhan_y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alimkhan_y" height="30" width="40" /></a>
+<a href="https://instagram.com/alimkhan_y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alimkhan_y" height="32" /></a>
+<a href="https://t.me/alimkhan_y" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png?20220101141644" alt="alimkhan_y" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="left">Experience:</h3>
+**iOS/AI Developer**
+*nFactorial Incubator, Almaty, Kazakhstan*
+June 2024 – August 2024
 
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-</p>
+- Developed **ädet** – a social detox AI habit tracking app integrated with Google Gemini AI and backed by FastAPI, PostgreSQL, and Azure Cloud Services. Achieved 4.5k+ App Store impressions, 200+ users, 420+ tasks completed, and 250k+ social media reach.
+- Implemented social networking features including real-time messaging, friend system, and Instagram-like feed with posting capabilities using custom backend and frontend architecture.
+- Contributed to full-stack development, including the landing page built with Next.js and TypeScript, API integrations, and real-time data handling.
+
+<h3 align="left">Projects:</h3>
+**ädet: social detox habits**
+*Technologies:* SwiftUI, UIKit, FastAPI, PostgreSQL, Google AI SDK, Azure, Next.js, TypeScript
+- Developed and launched a habit-tracking app with AI-powered task generation using Google Gemini, implementing MVVM architecture and concurrent programming with async/await and Combine framework.
+- Built comprehensive social networking system with RESTful APIs for user profiles, friend management, real-time messaging, and Instagram-like feed with posting capabilities.
+- Designed and deployed landing page using Next.js, TypeScript, and Tailwind CSS on Vercel platform.
+
+**Hadithly**
+*Technologies:* SwiftUI, UIKit, Islamic API
+- Building an app for Russian-speaking Muslims to deliver daily Hadiths with a beautiful, minimal UI/UX and strong Islamic design aesthetic.
+
+<h3 align="left">Education:</h3>
+**BSc in Computer Science**
+*City University of Hong Kong*
+2024 – 2028
+- **Tigers Full Tuition Scholarship** (Top ~5% of admitted students)
+- **Relevant Coursework:** CS1302 Introduction to Computer Programming (A-), CS2204 Fundamentals of Internet Applications Development (B+), CS2310 Computer Programming (B)
+
+<h3 align="left">Technical Skills:</h3>
+**iOS Development & AI:** Swift, SwiftUI, UIKit, Xcode, MVVM Architecture, Concurrent Programming, Combine Framework, Google AI SDK, OpenAI API, Pydantic AI, Langchain
+**Backend & Databases:** FastAPI, Django, RESTful APIs, WebSocket, OAuth, Clerk, PostgreSQL, MySQL, SQLAlchemy, Redis, Celery
+**Infrastructure & DevOps:** Git, Docker, CI/CD, Azure Cloud Services, Vercel, nginx, ngrok, Firebase, Supabase, Linux
+**Languages & Web:** Swift, Python, Java, C++, JavaScript, TypeScript, SQL, Next.js, Tailwind CSS
+**Design & Tools:** Figma, UI/UX Design, Branding, Visual Design, Logo and Landing Page Design
+
+<h3 align="left">Other:</h3>
+- **Languages:** English (C1: IELTS 8.0), Kazakh (C2: Native), Russian (C2: Native)
