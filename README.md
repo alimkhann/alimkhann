@@ -2,7 +2,7 @@
 <h3 align="center">iOS Developer & AI Enthusiast | nFactorial Incubator'24 | CS BSc @ CityUHK'28 (🔝60 QS)</h3>
 
 - 📫 How to reach me: **alimkhan.ergebayev@gmail.com**
-- 📄 Know about my experiences: [CV]([https://drive.google.com/file/d/1ubUYRMA9NarhWVfHX7N2GY7EI5s08UjC/view?usp=sharing](https://drive.google.com/file/d/161ER_eo5pK3jmJg5MXtDoT5rQCrcci2Q/view?usp=sharing))
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/161ER_eo5pK3jmJg5MXtDoT5rQCrcci2Q/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
