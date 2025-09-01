@@ -2,7 +2,7 @@
 <h3 align="center">iOS Developer & AI Enthusiast | nFactorial Incubator'24 | CS BSc @ CityUHK'28 (🔝60 QS)</h3>
 
 - 📫 How to reach me: **alimkhan.ergebayev@gmail.com**
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/161ER_eo5pK3jmJg5MXtDoT5rQCrcci2Q/view?usp=sharing)
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1YPwKpX64oVqaIuT7J6BE2gijhWUV6r4U/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +15,7 @@
 
 **iOS/AI Developer**
 *nFactorial Incubator, Almaty, Kazakhstan,*
-June 2024 – August 2024
+June 2025 – August 2025
 
 - Developed **ädet** – a social detox AI habit tracking app integrated with Google Gemini AI and backed by FastAPI, PostgreSQL, and Azure Cloud Services. Achieved 4.5k+ App Store impressions, 200+ users, 420+ tasks completed, and 250k+ social media reach.
 - Implemented social networking features including real-time messaging, friend system, and Instagram-like feed with posting capabilities using custom backend and frontend architecture.
