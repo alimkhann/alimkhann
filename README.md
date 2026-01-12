@@ -1,5 +1,5 @@
 <h1 align="center">Alimkhan Yergebayev</h1>
-<h3 align="center">iOS Developer & AI Enthusiast | nFactorial Incubator'25 | CS BSc @ CityUHK'28 (🔝60 QS)</h3>
+<h3 align="center">iOS Developer & AI Enthusiast | nFactorial Incubator'25 | CS BSc @ CityUHK'28</h3>
 
 - 📫 How to reach me: **alimkhan.ergebayev@gmail.com**
 - 📄 Know about my experiences: [CV](https://drive.google.com/file/d/18jXBmYHtmCEWnv3V62v4ftTYyPVlIYm2/view?usp=sharing)
