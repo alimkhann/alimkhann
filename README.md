@@ -1,7 +1,7 @@
 <h1 align="center">Alimkhan Yergebayev</h1>
 <h3 align="center">Fullstack Web/iOS & AI Eng Dev | nFactorial Incubator'25</h3>
 
-- 📫 How to reach me: **alimkhan.ergebayev@gmail.com**
+- 📫 How to reach me: **alimkhan.yergebayev@gmail.com**
 
 <h3 align="left">Other:</h3>
 
