@@ -5,8 +5,8 @@ I build apps end to end: ai, native mobile, Next.js web, and the backend behind 
 
 **Showcase**
 
-- [Hadithly](https://github.com/alimkhann/Hadithly) — read hadith in your language ([hadithly.app](https://hadithly.app) live, apps in development). SwiftUI, Compose, Convex, Gemini grounded translations with admin approval.
-- [Relay](https://github.com/alimkhann/Relay) — browser memory sidecar for AI tools ([onrelay.app](https://onrelay.app)). Chrome MV3 extension, MCP, Next.js, Neon Postgres.
+- [Hadithly](https://github.com/alimkhann/Hadithly) — read hadith in any language ([hadithly.app](https://hadithly.app) live, apps in development). SwiftUI, Compose, Convex, Gemini grounded translations with admin approval.
+- [Relay](https://github.com/alimkhann/Relay) — shared memory for all your AI tools ([onrelay.app](https://onrelay.app)). Chrome MV3 extension, MCP, Next.js, Neon Postgres.
 - [Sunnad](https://github.com/alimkhann/sunnad) — offline-first islamic habit tracker ([App Store](https://apps.apple.com/kz/app/adat-islamic-habit-tracker/id6761636021)). SwiftUI, Compose, Supabase, EN/RU/KK.
 - [commitly](https://github.com/alimkhann/commitly) — turn a GitHub repo into hands-on learning tasks. Next.js, Supabase Edge Functions.
 
