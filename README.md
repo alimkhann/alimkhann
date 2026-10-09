@@ -12,5 +12,6 @@ I build apps end to end: ai, native mobile, Next.js web, and the backend behind 
 
 **Stack:** TypeScript, Swift, Kotlin, Python. SwiftUI, Jetpack Compose, Next.js, Convex, Supabase, Postgres.
 
+- Website: [alimkhan.dev](https://alimkhan.dev)
 - Contact: alimkhan.yergebayev@gmail.com
 - Languages: English (IELTS 8.0), Kazakh (native), Russian (native)
